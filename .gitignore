@@ -1,6 +1,6 @@
 xrays/etc
 xrays/camera*
-xrays/*.gz
+xrays/old/*.gz
 *slurm-*.out
 
 # Byte-compiled / optimized / DLL files
